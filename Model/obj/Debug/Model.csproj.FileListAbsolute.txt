@@ -1,0 +1,14 @@
+D:\练习项目\新框架搭建\WebApplicationSqlSugar\Model\bin\Debug\Model.dll
+D:\练习项目\新框架搭建\WebApplicationSqlSugar\Model\bin\Debug\Model.pdb
+D:\练习项目\新框架搭建\WebApplicationSqlSugar\Model\bin\Debug\System.Collections.NonGeneric.dll
+D:\练习项目\新框架搭建\WebApplicationSqlSugar\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\练习项目\新框架搭建\WebApplicationSqlSugar\Model\obj\Debug\Model.csproj.CopyComplete
+D:\练习项目\新框架搭建\WebApplicationSqlSugar\Model\obj\Debug\Model.dll
+D:\练习项目\新框架搭建\WebApplicationSqlSugar\Model\obj\Debug\Model.pdb
+C:\Users\eman\Desktop\新框架搭建\WebApplicationSqlSugar\Model\bin\Debug\Model.dll
+C:\Users\eman\Desktop\新框架搭建\WebApplicationSqlSugar\Model\bin\Debug\Model.pdb
+C:\Users\eman\Desktop\新框架搭建\WebApplicationSqlSugar\Model\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\eman\Desktop\新框架搭建\WebApplicationSqlSugar\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\eman\Desktop\新框架搭建\WebApplicationSqlSugar\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\eman\Desktop\新框架搭建\WebApplicationSqlSugar\Model\obj\Debug\Model.dll
+C:\Users\eman\Desktop\新框架搭建\WebApplicationSqlSugar\Model\obj\Debug\Model.pdb
